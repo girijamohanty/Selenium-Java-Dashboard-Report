@@ -1,0 +1,1 @@
+clean verify -Psauce -DstoryName=google.story
