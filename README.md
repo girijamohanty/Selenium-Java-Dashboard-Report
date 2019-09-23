@@ -11,6 +11,8 @@ Target/site/serenity
 
 ## Customized Report
 src/main/reports
+https://github.com/girijamohanty/Selenium-Java-DashboardReport-Video-BDD/blob/master/Dashboard%20Report%20View.JPG
+https://github.com/girijamohanty/Selenium-Java-DashboardReport-Video-BDD/blob/master/Fail%20Pass%20Details.JPG
 
 
 ## Captured Video for observation
